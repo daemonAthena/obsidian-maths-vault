@@ -6,59 +6,65 @@
       <description>Last 10 notes on Athena&#039;s Algebras</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Logical Operators</title>
-    <link>https:///obsidian-maths-vault/Logical-Operators</link>
-    <guid>https:///obsidian-maths-vault/Logical-Operators</guid>
-    <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Magmas (\{0,1\},\lor) Boolean logic under the or operation is a semigroup is a monoid, and the identity is 0 is not a group since 1 has no inverse (\{0,1\},\land) Boolean logic under the and operation Boolean and has an Isomorphism... ]]></description>
-    <pubDate>Mon, 16 Mar 2026 00:12:24 GMT</pubDate>
+    <title>Digraphs</title>
+    <link>https:///obsidian-maths-vault/Digraphs</link>
+    <guid>https:///obsidian-maths-vault/Digraphs</guid>
+    <description><![CDATA[ Definition A digraph is a set with a binary relation (set of ordered pairs made from elements in the set) on it. It is simpler than a group. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
   </item><item>
-    <title>Projections</title>
-    <link>https:///obsidian-maths-vault/Projections</link>
-    <guid>https:///obsidian-maths-vault/Projections</guid>
-    <description><![CDATA[ If you have A \times B then there is always a homomorphism from A \times B \to A and A \times B \to B f((x,y)) = x. ]]></description>
-    <pubDate>Sun, 15 Mar 2026 23:39:34 GMT</pubDate>
+    <title>Law</title>
+    <link>https:///obsidian-maths-vault/Law</link>
+    <guid>https:///obsidian-maths-vault/Law</guid>
+    <description><![CDATA[ A law is a universally quantified equality of terms. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
+  </item><item>
+    <title>Operation</title>
+    <link>https:///obsidian-maths-vault/Operation</link>
+    <guid>https:///obsidian-maths-vault/Operation</guid>
+    <description><![CDATA[ Operation An operation is a function which takes a predefined finite number of inputs and whos domain is a power of its codomain. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
+  </item><item>
+    <title>Disjoint Cycle Notation</title>
+    <link>https:///obsidian-maths-vault/Permutation-Groups/Disjoint-Cycle-Notation</link>
+    <guid>https:///obsidian-maths-vault/Permutation-Groups/Disjoint-Cycle-Notation</guid>
+    <description><![CDATA[ How to Parse When we have a permutation we can write it compactly by writing all the cycles in how numbers are assigned to each other. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
+  </item><item>
+    <title>Lattices</title>
+    <link>https:///obsidian-maths-vault/Permutation-Groups/Lattices</link>
+    <guid>https:///obsidian-maths-vault/Permutation-Groups/Lattices</guid>
+    <description><![CDATA[ Meet and Join The meet of two points (a,b) in a lattice is the largest point, x, such that x ⇐ a and x ⇐ b. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
+  </item><item>
+    <title>Partially Ordered Set</title>
+    <link>https:///obsidian-maths-vault/Permutation-Groups/Partially-Ordered-Set</link>
+    <guid>https:///obsidian-maths-vault/Permutation-Groups/Partially-Ordered-Set</guid>
+    <description><![CDATA[ A set which is transitive, reflexive, and anti-symmetric. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
+  </item><item>
+    <title>Permutation Groups</title>
+    <link>https:///obsidian-maths-vault/Permutation-Groups/Permutation-Groups</link>
+    <guid>https:///obsidian-maths-vault/Permutation-Groups/Permutation-Groups</guid>
+    <description><![CDATA[ A group is a set with a binary operation that is associative, identity (unless its the empty group, thanks Luna), inverses, closed. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
+  </item><item>
+    <title>Quantifier</title>
+    <link>https:///obsidian-maths-vault/Quantifier</link>
+    <guid>https:///obsidian-maths-vault/Quantifier</guid>
+    <description><![CDATA[ There are two quantifiers. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
   </item><item>
     <title>Varieties</title>
     <link>https:///obsidian-maths-vault/Varieties</link>
     <guid>https:///obsidian-maths-vault/Varieties</guid>
-    <description><![CDATA[ A variety, V is a class of Algebras which is defined to be the class of ALL algebras which satisfy a certain set of laws. ]]></description>
-    <pubDate>Sun, 15 Mar 2026 23:23:56 GMT</pubDate>
+    <description><![CDATA[ A variety, V is a class of Algebras which is defined to be the class of ALL algebras which satisfy a set of predefined laws. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
   </item><item>
     <title>Basic Algebraic Structures</title>
     <link>https:///obsidian-maths-vault/Basic-Algebraic-Structures</link>
     <guid>https:///obsidian-maths-vault/Basic-Algebraic-Structures</guid>
-    <description><![CDATA[ Algebra (\mathcal{S},☿,...) An Algebra is a set with any number of operations with any arities (arity is the number of inputs an operation takes, nullary = 0 inputs unary = 1 input binary = 2 inputs ternary = 3 inputs 4-ary = 4 inputs … ). ]]></description>
-    <pubDate>Sun, 15 Mar 2026 22:57:55 GMT</pubDate>
-  </item><item>
-    <title>Partition</title>
-    <link>https:///obsidian-maths-vault/Partition</link>
-    <guid>https:///obsidian-maths-vault/Partition</guid>
-    <description><![CDATA[ Given a set $$ A_{i} \subseteq S | \forall i \in \mathbb{N}, \exists j,k &lt; i such that A_k, A_j \subseteq {A}_{i}= S | A_k \cup A_j = S \text{ and }A_k \cap A_j = \varnothing then these sets form a partition on S The pieces of a partition are called &quot;blocks&quot;. ]]></description>
-    <pubDate>Sun, 15 Mar 2026 22:40:03 GMT</pubDate>
-  </item><item>
-    <title>Equivalence Relations</title>
-    <link>https:///obsidian-maths-vault/Equivalence-Relations</link>
-    <guid>https:///obsidian-maths-vault/Equivalence-Relations</guid>
-    <description><![CDATA[ Equivalence Relations a relation \sim is an equivalence relation if it satisfies the following properties Reflexivity x \sim x Symmetry x \sim y \iff y \sim x Transitivity x \sim y \land y \sim z \implies x \sim z Equivalence relations cleanly partition sets. ]]></description>
-    <pubDate>Sun, 15 Mar 2026 22:39:53 GMT</pubDate>
-  </item><item>
-    <title>Isomorphism</title>
-    <link>https:///obsidian-maths-vault/Isomorphism</link>
-    <guid>https:///obsidian-maths-vault/Isomorphism</guid>
-    <description><![CDATA[ Isomorphism is a powerful tool in mathematics. ]]></description>
-    <pubDate>Sun, 15 Mar 2026 22:21:04 GMT</pubDate>
-  </item><item>
-    <title>Permutation Groups</title>
-    <link>https:///obsidian-maths-vault/Permutation-Groups</link>
-    <guid>https:///obsidian-maths-vault/Permutation-Groups</guid>
-    <description><![CDATA[ A group is a set with a binary operation that is associative, identity (unless its the empty group, thanks Luna), inverses, closed. ]]></description>
-    <pubDate>Tue, 26 Nov 2024 21:34:35 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https:///obsidian-maths-vault/</link>
-    <guid>https:///obsidian-maths-vault/</guid>
-    <description><![CDATA[ Algebraic Structures Basic Algebraic Structures Isomorphism Varieties Relations and Structure Equivalence Relations Partition Projections Logic Logical Operators About These notes are part of an ongoing effort to build a structured reference for mathematical concepts I study and use in programming a... ]]></description>
-    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+    <description><![CDATA[ Algebra (\mathcal{S},☿,...) An Algebra is a set with any number of operations with any arities Magma A Magma is a set with a binary operation. ]]></description>
+    <pubDate>Thu, 19 Mar 2026 20:00:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
