@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Basic Algebraic Structures</title>
+    <link>https://quartz.jzhao.xyz/Basic-Algebraic-Structures</link>
+    <guid>https://quartz.jzhao.xyz/Basic-Algebraic-Structures</guid>
+    <description><![CDATA[ Algebra (\mathcal{S},☿,...) An Algebra is a set with any number of operations with any arities (arity is the number of inputs an operation takes, nullary = 0 inputs unary = 1 input binary = 2 inputs ternary = 3 inputs 4-ary = 4 inputs … ). ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item><item>
+    <title>Equivalence Relations</title>
+    <link>https://quartz.jzhao.xyz/Equivalence-Relations</link>
+    <guid>https://quartz.jzhao.xyz/Equivalence-Relations</guid>
+    <description><![CDATA[ Equivalence Relations a relation \sim is an equivalence relation if it satisfies the following properties Reflexivity x \sim x Symmetry x \sim y \iff y \sim x Transitivity x \sim y \land y \sim z \implies x \sim z Equivalence relations cleanly partition sets. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item><item>
+    <title>Isomorphism</title>
+    <link>https://quartz.jzhao.xyz/Isomorphism</link>
+    <guid>https://quartz.jzhao.xyz/Isomorphism</guid>
+    <description><![CDATA[ Isomorphism is a powerful tool in mathematics. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item><item>
+    <title>Logical Operators</title>
+    <link>https://quartz.jzhao.xyz/Logical-Operators</link>
+    <guid>https://quartz.jzhao.xyz/Logical-Operators</guid>
+    <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Magmas (\{0,1\},\lor) Boolean logic under the or operation is a semigroup is a monoid, and the identity is 0 is not a group since 1 has no inverse (\{0,1\},\land) Boolean logic under the and operation Boolean and has an Isomorphism... ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item><item>
+    <title>Partition</title>
+    <link>https://quartz.jzhao.xyz/Partition</link>
+    <guid>https://quartz.jzhao.xyz/Partition</guid>
+    <description><![CDATA[ Given a set $$ A_{i} \subseteq S | \forall i \in \mathbb{N}, \exists j,k &lt; i such that A_k, A_j \subseteq {A}_{i}= S | A_k \cup A_j = S \text{ and }A_k \cap A_j = \varnothing then these sets form a partition on S The pieces of a partition are called &quot;blocks&quot;. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item><item>
+    <title>Permutation Groups</title>
+    <link>https://quartz.jzhao.xyz/Permutation-Groups</link>
+    <guid>https://quartz.jzhao.xyz/Permutation-Groups</guid>
+    <description><![CDATA[ A group is a set with a binary operation that is associative, identity (unless its the empty group, thanks Luna), inverses, closed. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item><item>
+    <title>Projections</title>
+    <link>https://quartz.jzhao.xyz/Projections</link>
+    <guid>https://quartz.jzhao.xyz/Projections</guid>
+    <description><![CDATA[ If you have A \times B then there is always a homomorphism from A \times B \to A and A \times B \to B f((x,y)) = x. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item><item>
+    <title>Varieties</title>
+    <link>https://quartz.jzhao.xyz/Varieties</link>
+    <guid>https://quartz.jzhao.xyz/Varieties</guid>
+    <description><![CDATA[ A variety, V is a class of Algebras which is defined to be the class of ALL algebras which satisfy a certain set of laws. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Mathematics Notes This site is a collection of my personal mathematics notes written while studying and exploring topics in abstract algebra, logic, and related fields. ]]></description>
+    <pubDate>Mon, 16 Mar 2026 10:59:48 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
