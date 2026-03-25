@@ -6,11 +6,35 @@
       <description>Last 10 notes on Athena&#039;s Algebras</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Implies</title>
+    <link>https:///obsidian-maths-vault/Implies</link>
+    <guid>https:///obsidian-maths-vault/Implies</guid>
+    <description><![CDATA[ Implies is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “implies” function which only returns 0 if True implies False. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:50:36 GMT</pubDate>
+  </item><item>
+    <title>Or</title>
+    <link>https:///obsidian-maths-vault/Or</link>
+    <guid>https:///obsidian-maths-vault/Or</guid>
+    <description><![CDATA[ And is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “disjunction” function which only returns 0 only if both operands are 0 and otherwise returns 1. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:50:36 GMT</pubDate>
+  </item><item>
+    <title>And</title>
+    <link>https:///obsidian-maths-vault/And</link>
+    <guid>https:///obsidian-maths-vault/And</guid>
+    <description><![CDATA[ And is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “conjunction” function which only returns 1 only if both operands are 1 and otherwise returns 0. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:50:36 GMT</pubDate>
+  </item><item>
+    <title>Biconditional</title>
+    <link>https:///obsidian-maths-vault/Biconditional</link>
+    <guid>https:///obsidian-maths-vault/Biconditional</guid>
+    <description><![CDATA[ Bicondition, or bicon, or if and only if, or iff is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the biconditional function which only returns 1 if both operands are the same and will otherwise return 0. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:50:36 GMT</pubDate>
+  </item><item>
     <title>Logical Operators</title>
     <link>https:///obsidian-maths-vault/Logical-Operators</link>
     <guid>https:///obsidian-maths-vault/Logical-Operators</guid>
     <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Logical Operators Here is a list of logical operators. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:12:36 GMT</pubDate>
+    <pubDate>Wed, 25 Mar 2026 05:13:58 GMT</pubDate>
   </item><item>
     <title>Binary Numbers</title>
     <link>https:///obsidian-maths-vault/Binary-Numbers</link>
@@ -41,30 +65,6 @@
     <guid>https:///obsidian-maths-vault/</guid>
     <description><![CDATA[ About These notes are part of an ongoing effort to build a structured reference for mathematical concepts I study and use in programming and theoretical work. ]]></description>
     <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
-  </item><item>
-    <title>Basic Algebraic Structures</title>
-    <link>https:///obsidian-maths-vault/Basic-Algebraic-Structures</link>
-    <guid>https:///obsidian-maths-vault/Basic-Algebraic-Structures</guid>
-    <description><![CDATA[ Algebra (\mathcal{S},☿,...) An Algebra is a set with any number of operations with any arities Magma A Magma is a set with a binary operation. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Digraphs</title>
-    <link>https:///obsidian-maths-vault/Digraphs</link>
-    <guid>https:///obsidian-maths-vault/Digraphs</guid>
-    <description><![CDATA[ Definition A digraph is a set with a binary relation (set of ordered pairs made from elements in the set) on it. It is simpler than a group. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Equivalence Relations</title>
-    <link>https:///obsidian-maths-vault/Equivalence-Relations</link>
-    <guid>https:///obsidian-maths-vault/Equivalence-Relations</guid>
-    <description><![CDATA[ Equivalence Relations a relation \sim is an equivalence relation if it satisfies the following properties Reflexivity x \sim x Symmetry x \sim y \iff y \sim x Transitivity x \sim y \land y \sim z \implies x \sim z Equivalence relations cleanly partition sets. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Isomorphism</title>
-    <link>https:///obsidian-maths-vault/Isomorphism</link>
-    <guid>https:///obsidian-maths-vault/Isomorphism</guid>
-    <description><![CDATA[ Isomorphism is a powerful tool in mathematics. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
   </item>
     </channel>
   </rss>

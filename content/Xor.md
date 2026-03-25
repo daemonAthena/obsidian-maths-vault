@@ -9,6 +9,10 @@ The operation is noted as $\otimes$ throughout my work. `\otimes` in LaTeX.
 |  $0$  |  $1$  |  $1$   |
 |  $0$  |  $0$  |  $0$   |
 *Truth table of Xor*
+Note that this is an inversion of $\iff$
+# Decomposition of Xor
+see also [[Biconditional#Decomposition of Bicon|Decomposition of Biconditional]]
+$x \otimes y$ = $\lnot(x \iff y)$ = $(x \lor y) \land \lnot(x \land y)$ = $(x \lor y) \land (\lnot x \lor \lnot y)$
 
 # Cancellative Property ❓
 
