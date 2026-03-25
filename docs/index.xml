@@ -6,6 +6,12 @@
       <description>Last 10 notes on Athena&#039;s Algebras</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Logical Operators</title>
+    <link>https:///obsidian-maths-vault/Logical-Operators</link>
+    <guid>https:///obsidian-maths-vault/Logical-Operators</guid>
+    <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Logical Operators Here is a list of logical operators. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:12:36 GMT</pubDate>
+  </item><item>
     <title>Binary Numbers</title>
     <link>https:///obsidian-maths-vault/Binary-Numbers</link>
     <guid>https:///obsidian-maths-vault/Binary-Numbers</guid>
@@ -16,12 +22,6 @@
     <link>https:///obsidian-maths-vault/Boolean-Rings</link>
     <guid>https:///obsidian-maths-vault/Boolean-Rings</guid>
     <description><![CDATA[ Boolean Rings are an Algebra (S,\otimes,\land) with two binary operations which satisfy the following axioms: Axioms #NameFOL1.Closure under addition\forall a,b \in S: a\otimes b \in S2.Associativity under addition\forall a,b \in S : (a \otimes b) \otimes c = a \otimes (b \otimes c)3.Commutativity u... ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
-  </item><item>
-    <title>Logical Operators</title>
-    <link>https:///obsidian-maths-vault/Logical-Operators</link>
-    <guid>https:///obsidian-maths-vault/Logical-Operators</guid>
-    <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Logical Operators Here is a list of logical operators. ]]></description>
     <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
   </item><item>
     <title>Operation</title>

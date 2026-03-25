@@ -3,11 +3,11 @@ Going forward the set $\{0,1\}$ will be referred to as "Boolean Logic"
 
 # Logical Operators
 Here is a list of logical operators.
-$\land$: and
-$\lor$: or
-$\otimes$: [[Xor]]
-$\Rightarrow$: implies
-$\iff$ - biconditional
+- $\land$: and
+- $\lor$: or
+- $\otimes$: [[Xor]]
+- $\Rightarrow$: implies
+- $\iff$: biconditional
 
 # Basic Algebras Derived from Logical Operators
 ## Magmas
