@@ -3,18 +3,21 @@ These notes are part of an ongoing effort to build a structured reference for ma
 
 The source for this site is written in Markdown using Obsidian and published using Quartz.
 
+# Notation
+Anywhere you see a ❓ is a place where I need a scholar to verify if what I've said is correct.
 # Reference
-## Algebraic Structures
+## Recommended for Learning
 - [[Basic Algebraic Structures]]
-- [[Isomorphism]]
-- [[Varieties]]
-
-## Relations and Structure
+- [[Operation]]
+- [[Quantifier]]
 - [[Equivalence Relations]]
-- [[Partition]]
-- [[Projections]]
-
-## Logic
+## Pending Review
+- [[Xor]]
+- [[Binary Numbers]]
+- [[Boolean Rings]]
+## Authors Choice
+- [[Varieties]]
+- [[Isomorphism]]
 - [[Logical Operators]]
 
 # Author

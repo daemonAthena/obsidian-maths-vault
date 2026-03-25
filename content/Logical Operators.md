@@ -1,39 +1,49 @@
 
 Going forward the set $\{0,1\}$ will be referred to as "Boolean Logic"
-# Magmas
-## $(\{0,1\},\lor)$
+
+# Logical Operators
+Here is a list of logical operators.
+$\land$ - and
+$\lor$ - or
+$\otimes$ - [[Xor]]
+$\Rightarrow$ - implies
+$\iff$ - biconditional
+
+# Basic Algebras Derived from Logical Operators
+## Magmas
+### $(\{0,1\},\lor)$
 Boolean logic under the **or** operation
 1. is a semigroup
 2. is a monoid, and the identity is $0$
 3. is not a group since $1$ has no inverse
 
-## $(\{0,1\},\land)$
+### $(\{0,1\},\land)$
 Boolean logic under the **and** operation
 1. **Boolean and** has an **[[Isomorphism]]** with **Boolean or** by way of the function that applies the "Not" unary operation to the input.
 2. Identity element is $1$ as it is what $0$ maps to in the isomorphism
 
-## $(\{0,1\},\Rightarrow)$
+### $(\{0,1\},\Rightarrow)$
 Boolean logic under the **implies** operation
 1. is not a semigroup :( since it is not associative
 
-## $(\{0,1\},\otimes)$ 
+### $(\{0,1\},\otimes)$ 
 Boolean logic under the **xor** operation
 1. Is a semigroup
 2. is a monoid
 3. is a group since all elements are invertable
 
-## $(\{0,1\},\iff)$
+### $(\{0,1\},\iff)$
 Boolean logic under the **biconditional** operation (also called iff for if and only if)
 1. There exists an **Isomorphism** between boolean xor and boolean iff therefore they share the same properties
 
-# Rings/Double Magmas
+## Rings/Double Magmas
 
-We can combine different binary logic groups and semigroups to get ring candidates and analyze them. 
-## $(\{0,1\},\otimes,\lor)$
+We can combine different binary logic groups and semigroups to get ring candidates and analyze them. See also [[Boolean Rings]].
+### $(\{0,1\},\otimes,\lor)$
 Boolean logic under xor, or
 1. Is NOT a ring since not all elements distribute
 
-## $(\{0,1\},\otimes,\land)$
+### $(\{0,1\},\otimes,\land)$
 Boolean logic under xor, and
 1. Is a Ring!
 	1. Distributive property holds for all elements
@@ -42,7 +52,7 @@ Boolean logic under xor, and
 	1. $(\{0,1\},\land)$ is commutative
 	2. All elements of $(\{0,1\},\land)$ excluding the $\otimes$ identity, $0$, ($0 \land 0 \not\equiv 1$) have an inverse.
 	3. We already showed $(\{0,1\},\land)$ has an identity!
-## $(\{0,1\},\iff,\lor)$
+### $(\{0,1\},\iff,\lor)$
 Boolean logic under iff, or
 1. Is isomorphic to $(\{0,1\},\otimes,\land)$ since 
 	1. $(\{0,1\},\iff) \cong (\{0,1\},\otimes)$
@@ -73,6 +83,4 @@ Every finite boolean algebra is like this. There is no boolean algebra with 3 el
 
 ## Infinite Algebras of $\mathbb{B}$
 ### $\mathbb{B}^\mathcal{I}$ where $\mathcal{I}$ in infinite
-The set is 
-
 There may be countable subalgebras

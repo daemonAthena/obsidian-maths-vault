@@ -6,6 +6,24 @@
       <description>Last 10 notes on Athena&#039;s Algebras</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Binary Numbers</title>
+    <link>https:///obsidian-maths-vault/Binary-Numbers</link>
+    <guid>https:///obsidian-maths-vault/Binary-Numbers</guid>
+    <description><![CDATA[ A binary number, b, is an element from a Binary Algebra \mathbb{B}. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:08:12 GMT</pubDate>
+  </item><item>
+    <title>Boolean Rings</title>
+    <link>https:///obsidian-maths-vault/Boolean-Rings</link>
+    <guid>https:///obsidian-maths-vault/Boolean-Rings</guid>
+    <description><![CDATA[ Boolean Rings are an Algebra (S,\otimes,\land) with two binary operations which satisfy the following axioms: Axioms #NameFOL1.Closure under addition\forall a,b \in S: a\otimes b \in S2.Associativity under addition\forall a,b \in S : (a \otimes b) \otimes c = a \otimes (b \otimes c)3.Commutativity u... ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:08:12 GMT</pubDate>
+  </item><item>
+    <title>Xor</title>
+    <link>https:///obsidian-maths-vault/Xor</link>
+    <guid>https:///obsidian-maths-vault/Xor</guid>
+    <description><![CDATA[ Xor is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “exclusive or” function which only returns 1 if both operands are different and will otherwise return 0. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:08:12 GMT</pubDate>
+  </item><item>
     <title>Basic Algebraic Structures</title>
     <link>https:///obsidian-maths-vault/Basic-Algebraic-Structures</link>
     <guid>https:///obsidian-maths-vault/Basic-Algebraic-Structures</guid>
@@ -39,31 +57,13 @@
     <title>Logical Operators</title>
     <link>https:///obsidian-maths-vault/Logical-Operators</link>
     <guid>https:///obsidian-maths-vault/Logical-Operators</guid>
-    <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Magmas (\{0,1\},\lor) Boolean logic under the or operation is a semigroup is a monoid, and the identity is 0 is not a group since 1 has no inverse (\{0,1\},\land) Boolean logic under the and operation Boolean and has an Isomorphism... ]]></description>
+    <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Logical Operators Here is a list of logical operators. ]]></description>
     <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
   </item><item>
     <title>Operation</title>
     <link>https:///obsidian-maths-vault/Operation</link>
     <guid>https:///obsidian-maths-vault/Operation</guid>
     <description><![CDATA[ Operation An operation is a function which takes a predefined finite number of inputs and whos domain is a power of its codomain. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Partition</title>
-    <link>https:///obsidian-maths-vault/Partition</link>
-    <guid>https:///obsidian-maths-vault/Partition</guid>
-    <description><![CDATA[ Given a set $$ A_{i} \subseteq S | \forall i \in \mathbb{N}, \exists j,k &lt; i such that A_k, A_j \subseteq {A}_{i}= S | A_k \cup A_j = S \text{ and }A_k \cap A_j = \varnothing then these sets form a partition on S The pieces of a partition are called &quot;blocks&quot;. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Disjoint Cycle Notation</title>
-    <link>https:///obsidian-maths-vault/Permutation-Groups/Disjoint-Cycle-Notation</link>
-    <guid>https:///obsidian-maths-vault/Permutation-Groups/Disjoint-Cycle-Notation</guid>
-    <description><![CDATA[ How to Parse When we have a permutation we can write it compactly by writing all the cycles in how numbers are assigned to each other. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Lattices</title>
-    <link>https:///obsidian-maths-vault/Permutation-Groups/Lattices</link>
-    <guid>https:///obsidian-maths-vault/Permutation-Groups/Lattices</guid>
-    <description><![CDATA[ Meet and Join The meet of two points (a,b) in a lattice is the largest point, x, such that x ⇐ a and x ⇐ b. ]]></description>
     <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
   </item>
     </channel>
