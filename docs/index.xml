@@ -10,19 +10,37 @@
     <link>https:///obsidian-maths-vault/Binary-Numbers</link>
     <guid>https:///obsidian-maths-vault/Binary-Numbers</guid>
     <description><![CDATA[ A binary number, b, is an element from a Binary Algebra \mathbb{B}. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:08:12 GMT</pubDate>
+    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
   </item><item>
     <title>Boolean Rings</title>
     <link>https:///obsidian-maths-vault/Boolean-Rings</link>
     <guid>https:///obsidian-maths-vault/Boolean-Rings</guid>
     <description><![CDATA[ Boolean Rings are an Algebra (S,\otimes,\land) with two binary operations which satisfy the following axioms: Axioms #NameFOL1.Closure under addition\forall a,b \in S: a\otimes b \in S2.Associativity under addition\forall a,b \in S : (a \otimes b) \otimes c = a \otimes (b \otimes c)3.Commutativity u... ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:08:12 GMT</pubDate>
+    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
+  </item><item>
+    <title>Logical Operators</title>
+    <link>https:///obsidian-maths-vault/Logical-Operators</link>
+    <guid>https:///obsidian-maths-vault/Logical-Operators</guid>
+    <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Logical Operators Here is a list of logical operators. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
+  </item><item>
+    <title>Operation</title>
+    <link>https:///obsidian-maths-vault/Operation</link>
+    <guid>https:///obsidian-maths-vault/Operation</guid>
+    <description><![CDATA[ Operation An operation is a function which takes a predefined finite number of inputs and whos domain is a power of its codomain. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
   </item><item>
     <title>Xor</title>
     <link>https:///obsidian-maths-vault/Xor</link>
     <guid>https:///obsidian-maths-vault/Xor</guid>
     <description><![CDATA[ Xor is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “exclusive or” function which only returns 1 if both operands are different and will otherwise return 0. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:08:12 GMT</pubDate>
+    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https:///obsidian-maths-vault/</link>
+    <guid>https:///obsidian-maths-vault/</guid>
+    <description><![CDATA[ About These notes are part of an ongoing effort to build a structured reference for mathematical concepts I study and use in programming and theoretical work. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
   </item><item>
     <title>Basic Algebraic Structures</title>
     <link>https:///obsidian-maths-vault/Basic-Algebraic-Structures</link>
@@ -46,24 +64,6 @@
     <link>https:///obsidian-maths-vault/Isomorphism</link>
     <guid>https:///obsidian-maths-vault/Isomorphism</guid>
     <description><![CDATA[ Isomorphism is a powerful tool in mathematics. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Law</title>
-    <link>https:///obsidian-maths-vault/Law</link>
-    <guid>https:///obsidian-maths-vault/Law</guid>
-    <description><![CDATA[ A law is a universally quantified equality of terms. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Logical Operators</title>
-    <link>https:///obsidian-maths-vault/Logical-Operators</link>
-    <guid>https:///obsidian-maths-vault/Logical-Operators</guid>
-    <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Logical Operators Here is a list of logical operators. ]]></description>
-    <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
-  </item><item>
-    <title>Operation</title>
-    <link>https:///obsidian-maths-vault/Operation</link>
-    <guid>https:///obsidian-maths-vault/Operation</guid>
-    <description><![CDATA[ Operation An operation is a function which takes a predefined finite number of inputs and whos domain is a power of its codomain. ]]></description>
     <pubDate>Mon, 23 Mar 2026 04:01:45 GMT</pubDate>
   </item>
     </channel>
