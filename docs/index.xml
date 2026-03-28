@@ -6,35 +6,53 @@
       <description>Last 10 notes on Athena&#039;s Algebras</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Implies</title>
-    <link>https:///obsidian-maths-vault/Implies</link>
-    <guid>https:///obsidian-maths-vault/Implies</guid>
-    <description><![CDATA[ Implies is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “implies” function which only returns 0 if True implies False. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:50:36 GMT</pubDate>
+    <title>Operation</title>
+    <link>https:///obsidian-maths-vault/Basic/Operation</link>
+    <guid>https:///obsidian-maths-vault/Basic/Operation</guid>
+    <description><![CDATA[ Operation An operation is a function which takes a predefined finite number of inputs and whos domain is a power of its codomain. ]]></description>
+    <pubDate>Sat, 28 Mar 2026 19:14:56 GMT</pubDate>
   </item><item>
-    <title>Or</title>
-    <link>https:///obsidian-maths-vault/Or</link>
-    <guid>https:///obsidian-maths-vault/Or</guid>
-    <description><![CDATA[ And is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “disjunction” function which only returns 0 only if both operands are 0 and otherwise returns 1. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:50:36 GMT</pubDate>
+    <title>Sets</title>
+    <link>https:///obsidian-maths-vault/Basic/Sets</link>
+    <guid>https:///obsidian-maths-vault/Basic/Sets</guid>
+    <description><![CDATA[ A set is a collection of objects. ]]></description>
+    <pubDate>Sat, 28 Mar 2026 19:14:56 GMT</pubDate>
   </item><item>
     <title>And</title>
     <link>https:///obsidian-maths-vault/And</link>
     <guid>https:///obsidian-maths-vault/And</guid>
     <description><![CDATA[ And is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “conjunction” function which only returns 1 only if both operands are 1 and otherwise returns 0. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:50:36 GMT</pubDate>
+    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
   </item><item>
     <title>Biconditional</title>
     <link>https:///obsidian-maths-vault/Biconditional</link>
     <guid>https:///obsidian-maths-vault/Biconditional</guid>
     <description><![CDATA[ Bicondition, or bicon, or if and only if, or iff is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the biconditional function which only returns 1 if both operands are the same and will otherwise return 0. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:50:36 GMT</pubDate>
+    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
+  </item><item>
+    <title>Implies</title>
+    <link>https:///obsidian-maths-vault/Implies</link>
+    <guid>https:///obsidian-maths-vault/Implies</guid>
+    <description><![CDATA[ Implies is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “implies” function which only returns 0 if True implies False. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
   </item><item>
     <title>Logical Operators</title>
     <link>https:///obsidian-maths-vault/Logical-Operators</link>
     <guid>https:///obsidian-maths-vault/Logical-Operators</guid>
     <description><![CDATA[ Going forward the set \{0,1\} will be referred to as “Boolean Logic” Logical Operators Here is a list of logical operators. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:13:58 GMT</pubDate>
+    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
+  </item><item>
+    <title>Or</title>
+    <link>https:///obsidian-maths-vault/Or</link>
+    <guid>https:///obsidian-maths-vault/Or</guid>
+    <description><![CDATA[ And is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “disjunction” function which only returns 0 only if both operands are 0 and otherwise returns 1. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
+  </item><item>
+    <title>Xor</title>
+    <link>https:///obsidian-maths-vault/Xor</link>
+    <guid>https:///obsidian-maths-vault/Xor</guid>
+    <description><![CDATA[ Xor is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “exclusive or” function which only returns 1 if both operands are different and will otherwise return 0. ]]></description>
+    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
   </item><item>
     <title>Binary Numbers</title>
     <link>https:///obsidian-maths-vault/Binary-Numbers</link>
@@ -46,24 +64,6 @@
     <link>https:///obsidian-maths-vault/Boolean-Rings</link>
     <guid>https:///obsidian-maths-vault/Boolean-Rings</guid>
     <description><![CDATA[ Boolean Rings are an Algebra (S,\otimes,\land) with two binary operations which satisfy the following axioms: Axioms #NameFOL1.Closure under addition\forall a,b \in S: a\otimes b \in S2.Associativity under addition\forall a,b \in S : (a \otimes b) \otimes c = a \otimes (b \otimes c)3.Commutativity u... ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
-  </item><item>
-    <title>Operation</title>
-    <link>https:///obsidian-maths-vault/Operation</link>
-    <guid>https:///obsidian-maths-vault/Operation</guid>
-    <description><![CDATA[ Operation An operation is a function which takes a predefined finite number of inputs and whos domain is a power of its codomain. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
-  </item><item>
-    <title>Xor</title>
-    <link>https:///obsidian-maths-vault/Xor</link>
-    <guid>https:///obsidian-maths-vault/Xor</guid>
-    <description><![CDATA[ Xor is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “exclusive or” function which only returns 1 if both operands are different and will otherwise return 0. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https:///obsidian-maths-vault/</link>
-    <guid>https:///obsidian-maths-vault/</guid>
-    <description><![CDATA[ About These notes are part of an ongoing effort to build a structured reference for mathematical concepts I study and use in programming and theoretical work. ]]></description>
     <pubDate>Wed, 25 Mar 2026 05:09:22 GMT</pubDate>
   </item>
     </channel>

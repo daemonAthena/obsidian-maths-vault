@@ -8,6 +8,7 @@ The operation is noted as $\otimes$ throughout my work. `\otimes` in LaTeX.
 |  $1$  |  $0$  |  $1$   |
 |  $0$  |  $1$  |  $1$   |
 |  $0$  |  $0$  |  $0$   |
+
 *Truth table of Xor*
 Note that this is an inversion of $\iff$
 # Decomposition of Xor
@@ -16,7 +17,7 @@ $x \otimes y$ = $\lnot(x \iff y)$ = $(x \lor y) \land \lnot(x \land y)$ = $(x \l
 
 # Cancellative Property ❓
 
-Xor is a fascinating operation because for any elements $a,b \in S$
+Xor is a fascinating operation because for any elements $a,b \in S$, 
 $$b \otimes a \otimes a = b$$
 This is because in the monoid $(\{0,1\},\otimes)$, you have that $e = 0$ and $\forall a \in \{0,1\} : a \otimes a = 0$
 

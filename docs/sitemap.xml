@@ -1,12 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https:///obsidian-maths-vault/And</loc>
-    <lastmod>2026-03-25T05:50:36.196Z</lastmod>
+    <lastmod>2026-03-25T05:50:41.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/Basic-Algebraic-Structures</loc>
     <lastmod>2026-03-23T04:01:45.000Z</lastmod>
   </url><url>
+    <loc>https:///obsidian-maths-vault/Basic/Operation</loc>
+    <lastmod>2026-03-28T19:14:56.993Z</lastmod>
+  </url><url>
+    <loc>https:///obsidian-maths-vault/Basic/Sets</loc>
+    <lastmod>2026-03-28T19:14:56.993Z</lastmod>
+  </url><url>
     <loc>https:///obsidian-maths-vault/Biconditional</loc>
-    <lastmod>2026-03-25T05:50:36.196Z</lastmod>
+    <lastmod>2026-03-25T05:50:41.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/Binary-Numbers</loc>
     <lastmod>2026-03-25T05:09:22.000Z</lastmod>
@@ -21,7 +27,7 @@
     <lastmod>2026-03-23T04:01:45.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/Implies</loc>
-    <lastmod>2026-03-25T05:50:36.197Z</lastmod>
+    <lastmod>2026-03-25T05:50:41.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/Isomorphism</loc>
     <lastmod>2026-03-23T04:01:45.000Z</lastmod>
@@ -30,13 +36,10 @@
     <lastmod>2026-03-23T04:01:45.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/Logical-Operators</loc>
-    <lastmod>2026-03-25T05:13:58.000Z</lastmod>
-  </url><url>
-    <loc>https:///obsidian-maths-vault/Operation</loc>
-    <lastmod>2026-03-25T05:09:22.000Z</lastmod>
+    <lastmod>2026-03-25T05:50:41.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/Or</loc>
-    <lastmod>2026-03-25T05:50:36.197Z</lastmod>
+    <lastmod>2026-03-25T05:50:41.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/Partition</loc>
     <lastmod>2026-03-23T04:01:45.000Z</lastmod>
@@ -63,7 +66,7 @@
     <lastmod>2026-03-23T04:01:45.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/Xor</loc>
-    <lastmod>2026-03-25T05:09:22.000Z</lastmod>
+    <lastmod>2026-03-25T05:50:41.000Z</lastmod>
   </url><url>
     <loc>https:///obsidian-maths-vault/</loc>
     <lastmod>2026-03-25T05:09:22.000Z</lastmod>

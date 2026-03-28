@@ -5,6 +5,7 @@ There are two quantifiers.
 ## Existential Quantifier
 The existential quantifier, $\exists$ is employed in formal logic to mean that something exists. Example of a true existential statement:
 $((S,\cdot)$ is a monoid) $\implies (\exists e \in S\ |\ e^{2}= e)$
+$\forall x \in (\mathbb{Z},+) \implies \exists x^{-1} = -x$
 
 ## Universal Quantifier
 The universal quantifier, $\forall$, is employed in formal logic to mean that the statement following will apply to all examples of a given case.
