@@ -1,1 +1,0 @@
-A set which is transitive, reflexive, and anti-symmetric.

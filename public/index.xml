@@ -5,66 +5,6 @@
       <link>https:///obsidian-maths-vault/</link>
       <description>Last 10 notes on Athena&#039;s Algebras</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      <item>
-    <title>Compactness</title>
-    <link>https:///obsidian-maths-vault/Topology/Compactness</link>
-    <guid>https:///obsidian-maths-vault/Topology/Compactness</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 28 Mar 2026 20:16:09 GMT</pubDate>
-  </item><item>
-    <title>Topology</title>
-    <link>https:///obsidian-maths-vault/Topology/Topology</link>
-    <guid>https:///obsidian-maths-vault/Topology/Topology</guid>
-    <description><![CDATA[ Definition A topology, on a set S, \mathcal{T} is a collection defined as follows: Must contain S and \emptyset Must be closed under finite intersections Must be closed under unions A set which is a member of the topology is called an open set Topological Space A topological space is a set and Topol... ]]></description>
-    <pubDate>Sat, 28 Mar 2026 20:16:09 GMT</pubDate>
-  </item><item>
-    <title>Classification of Boolean Algebras</title>
-    <link>https:///obsidian-maths-vault/Classification-of-Boolean-Algebras</link>
-    <guid>https:///obsidian-maths-vault/Classification-of-Boolean-Algebras</guid>
-    <description><![CDATA[  Boolean Algebras are the same as a certain class of topological space, Stone Spaces. ]]></description>
-    <pubDate>Sat, 28 Mar 2026 20:16:09 GMT</pubDate>
-  </item><item>
-    <title>Operation</title>
-    <link>https:///obsidian-maths-vault/Basic/Operation</link>
-    <guid>https:///obsidian-maths-vault/Basic/Operation</guid>
-    <description><![CDATA[ Operation An operation is a function which takes a predefined finite number of inputs and whos domain is a power of its codomain. ]]></description>
-    <pubDate>Sat, 28 Mar 2026 19:15:05 GMT</pubDate>
-  </item><item>
-    <title>Sets</title>
-    <link>https:///obsidian-maths-vault/Basic/Sets</link>
-    <guid>https:///obsidian-maths-vault/Basic/Sets</guid>
-    <description><![CDATA[ A set is a collection of objects. ]]></description>
-    <pubDate>Sat, 28 Mar 2026 19:15:05 GMT</pubDate>
-  </item><item>
-    <title>Quantifier</title>
-    <link>https:///obsidian-maths-vault/Quantifier</link>
-    <guid>https:///obsidian-maths-vault/Quantifier</guid>
-    <description><![CDATA[ There are two quantifiers. ]]></description>
-    <pubDate>Sat, 28 Mar 2026 19:15:05 GMT</pubDate>
-  </item><item>
-    <title>Xor</title>
-    <link>https:///obsidian-maths-vault/Xor</link>
-    <guid>https:///obsidian-maths-vault/Xor</guid>
-    <description><![CDATA[ Xor is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “exclusive or” function which only returns 1 if both operands are different and will otherwise return 0. ]]></description>
-    <pubDate>Sat, 28 Mar 2026 19:15:05 GMT</pubDate>
-  </item><item>
-    <title>And</title>
-    <link>https:///obsidian-maths-vault/And</link>
-    <guid>https:///obsidian-maths-vault/And</guid>
-    <description><![CDATA[ And is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “conjunction” function which only returns 1 only if both operands are 1 and otherwise returns 0. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
-  </item><item>
-    <title>Biconditional</title>
-    <link>https:///obsidian-maths-vault/Biconditional</link>
-    <guid>https:///obsidian-maths-vault/Biconditional</guid>
-    <description><![CDATA[ Bicondition, or bicon, or if and only if, or iff is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the biconditional function which only returns 1 if both operands are the same and will otherwise return 0. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
-  </item><item>
-    <title>Implies</title>
-    <link>https:///obsidian-maths-vault/Implies</link>
-    <guid>https:///obsidian-maths-vault/Implies</guid>
-    <description><![CDATA[ Implies is a logical binary operation which takes two values of the set of \mathbb{Z} / 2 and applies the “implies” function which only returns 0 if True implies False. ]]></description>
-    <pubDate>Wed, 25 Mar 2026 05:50:41 GMT</pubDate>
-  </item>
+      
     </channel>
   </rss>
